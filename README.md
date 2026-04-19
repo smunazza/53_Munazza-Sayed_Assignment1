@@ -51,8 +51,10 @@ Evaluation
 
 ## (5) Results
 Metrics:
+```
 RMSE: 92.742
 AIC: 2944.6
+```
 
 Insights:
 - The stock exhibited significant fluctuations over the observed period
